@@ -1,0 +1,508 @@
+/* 1.2 Flaticon Fonts */
+
+@font-face {
+    font-family: "Flaticon";
+    src: url("../webkit/Flaticon.eot");
+    src: url("../webkit/Flaticond41d.eot?#iefix") format("embedded-opentype"), url("../webkit/Flaticon.woff") format("woff"), url("../webkit/Flaticon.ttf") format("truetype"), url("../webkit/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("../webkit/Flaticon.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.flaticon-arm:before {
+    content: "\f100";
+}
+
+.flaticon-athletic-strap:before {
+    content: "\f101";
+}
+
+.flaticon-balance:before {
+    content: "\f102";
+}
+
+.flaticon-barbell:before {
+    content: "\f103";
+}
+
+.flaticon-barbell-1:before {
+    content: "\f104";
+}
+
+.flaticon-barbell-2:before {
+    content: "\f105";
+}
+
+.flaticon-basketball-jersey:before {
+    content: "\f106";
+}
+
+.flaticon-bench:before {
+    content: "\f107";
+}
+
+.flaticon-blender:before {
+    content: "\f108";
+}
+
+.flaticon-bosu-ball:before {
+    content: "\f109";
+}
+
+.flaticon-boxing-mannequin:before {
+    content: "\f10a";
+}
+
+.flaticon-boxing-shorts:before {
+    content: "\f10b";
+}
+
+.flaticon-brawn:before {
+    content: "\f10c";
+}
+
+.flaticon-buck:before {
+    content: "\f10d";
+}
+
+.flaticon-cancel:before {
+    content: "\f10e";
+}
+
+.flaticon-centimeter:before {
+    content: "\f10f";
+}
+
+.flaticon-chest:before {
+    content: "\f110";
+}
+
+.flaticon-chest-1:before {
+    content: "\f111";
+}
+
+.flaticon-chest-expander:before {
+    content: "\f112";
+}
+
+.flaticon-dressing-room:before {
+    content: "\f113";
+}
+
+.flaticon-drug:before {
+    content: "\f114";
+}
+
+.flaticon-dumbbell:before {
+    content: "\f115";
+}
+
+.flaticon-dumbbell-1:before {
+    content: "\f116";
+}
+
+.flaticon-dumbbell-2:before {
+    content: "\f117";
+}
+
+.flaticon-dumbbell-3:before {
+    content: "\f118";
+}
+
+.flaticon-dumbbell-4:before {
+    content: "\f119";
+}
+
+.flaticon-dumbbell-5:before {
+    content: "\f11a";
+}
+
+.flaticon-exercise-bands:before {
+    content: "\f11b";
+}
+
+.flaticon-exercise-bike:before {
+    content: "\f11c";
+}
+
+.flaticon-facebook:before {
+    content: "\f11d";
+}
+
+.flaticon-fitness:before {
+    content: "\f11e";
+}
+
+.flaticon-fitness-1:before {
+    content: "\f11f";
+}
+
+.flaticon-fitness-2:before {
+    content: "\f120";
+}
+
+.flaticon-fitness-bracelet:before {
+    content: "\f121";
+}
+
+.flaticon-fresh-juice:before {
+    content: "\f122";
+}
+
+.flaticon-gloves:before {
+    content: "\f123";
+}
+
+.flaticon-google-plus:before {
+    content: "\f124";
+}
+
+.flaticon-grip:before {
+    content: "\f125";
+}
+
+.flaticon-gym:before {
+    content: "\f126";
+}
+
+.flaticon-gymnast-mat:before {
+    content: "\f127";
+}
+
+.flaticon-gymnast-rings:before {
+    content: "\f128";
+}
+
+.flaticon-gymnastic-ball:before {
+    content: "\f129";
+}
+
+.flaticon-gymnastic-roller:before {
+    content: "\f12a";
+}
+
+.flaticon-hand-grip:before {
+    content: "\f12b";
+}
+
+.flaticon-headgear:before {
+    content: "\f12c";
+}
+
+.flaticon-heart:before {
+    content: "\f12d";
+}
+
+.flaticon-heart-1:before {
+    content: "\f12e";
+}
+
+.flaticon-horizontal-bar:before {
+    content: "\f12f";
+}
+
+.flaticon-hydratation:before {
+    content: "\f130";
+}
+
+.flaticon-instagram:before {
+    content: "\f131";
+}
+
+.flaticon-iron-shoots:before {
+    content: "\f132";
+}
+
+.flaticon-jumping-rope:before {
+    content: "\f133";
+}
+
+.flaticon-leg:before {
+    content: "\f134";
+}
+
+.flaticon-linkedin:before {
+    content: "\f135";
+}
+
+.flaticon-list:before {
+    content: "\f136";
+}
+
+.flaticon-lungs:before {
+    content: "\f137";
+}
+
+.flaticon-medicine-ball:before {
+    content: "\f138";
+}
+
+.flaticon-music-player:before {
+    content: "\f139";
+}
+
+.flaticon-no-drugs:before {
+    content: "\f13a";
+}
+
+.flaticon-no-fast-food:before {
+    content: "\f13b";
+}
+
+.flaticon-phytonutrients:before {
+    content: "\f13c";
+}
+
+.flaticon-pills:before {
+    content: "\f13d";
+}
+
+.flaticon-pills-1:before {
+    content: "\f13e";
+}
+
+.flaticon-pinterest:before {
+    content: "\f13f";
+}
+
+.flaticon-plastic-bottle:before {
+    content: "\f140";
+}
+
+.flaticon-press-simulator:before {
+    content: "\f141";
+}
+
+.flaticon-punching-bag:before {
+    content: "\f142";
+}
+
+.flaticon-punching-bag-1:before {
+    content: "\f143";
+}
+
+.flaticon-punching-bag-2:before {
+    content: "\f144";
+}
+
+.flaticon-punching-ball:before {
+    content: "\f145";
+}
+
+.flaticon-punching-ball-1:before {
+    content: "\f146";
+}
+
+.flaticon-rings:before {
+    content: "\f147";
+}
+
+.flaticon-scale:before {
+    content: "\f148";
+}
+
+.flaticon-scales:before {
+    content: "\f149";
+}
+
+.flaticon-share:before {
+    content: "\f14a";
+}
+
+.flaticon-shoe:before {
+    content: "\f14b";
+}
+
+.flaticon-shopping-cart:before {
+    content: "\f14c";
+}
+
+.flaticon-shorts:before {
+    content: "\f14d";
+}
+
+.flaticon-shower:before {
+    content: "\f14e";
+}
+
+.flaticon-shower-1:before {
+    content: "\f14f";
+}
+
+.flaticon-skipping-rope:before {
+    content: "\f150";
+}
+
+.flaticon-sport-bag:before {
+    content: "\f151";
+}
+
+.flaticon-sports-shirt:before {
+    content: "\f152";
+}
+
+.flaticon-sportswear:before {
+    content: "\f153";
+}
+
+.flaticon-stairs:before {
+    content: "\f154";
+}
+
+.flaticon-standing-punching-ball:before {
+    content: "\f155";
+}
+
+.flaticon-star:before {
+    content: "\f156";
+}
+
+.flaticon-step:before {
+    content: "\f157";
+}
+
+.flaticon-step-platform:before {
+    content: "\f158";
+}
+
+.flaticon-stopwatch:before {
+    content: "\f159";
+}
+
+.flaticon-stopwatch-1:before {
+    content: "\f15a";
+}
+
+.flaticon-stretching-punching-ball:before {
+    content: "\f15b";
+}
+
+.flaticon-telegram:before {
+    content: "\f15c";
+}
+
+.flaticon-trainer-rod:before {
+    content: "\f15d";
+}
+
+.flaticon-treadmill:before {
+    content: "\f15e";
+}
+
+.flaticon-treadmill-1:before {
+    content: "\f15f";
+}
+
+.flaticon-treadmill-2:before {
+    content: "\f160";
+}
+
+.flaticon-treadmill-3:before {
+    content: "\f161";
+}
+
+.flaticon-trellis:before {
+    content: "\f162";
+}
+
+.flaticon-twitter:before {
+    content: "\f163";
+}
+
+.flaticon-waist:before {
+    content: "\f164";
+}
+
+.flaticon-watch:before {
+    content: "\f165";
+}
+
+.flaticon-water-bottle:before {
+    content: "\f166";
+}
+
+.flaticon-weight:before {
+    content: "\f167";
+}
+
+.flaticon-weight-1:before {
+    content: "\f168";
+}
+
+.flaticon-weight-2:before {
+    content: "\f169";
+}
+
+.flaticon-weight-3:before {
+    content: "\f16a";
+}
+
+.flaticon-weight-4:before {
+    content: "\f16b";
+}
+
+.flaticon-weight-bar:before {
+    content: "\f16c";
+}
+
+.flaticon-weights:before {
+    content: "\f16d";
+}
+
+.flaticon-wheel:before {
+    content: "\f16e";
+}
+
+.flaticon-whistle:before {
+    content: "\f16f";
+}
+
+.flaticon-workout:before {
+    content: "\f170";
+}
+
+.flaticon-youtube:before {
+    content: "\f171";
+}
+
+.fIcons:before {
+    font-size: 72px;
+    color: #6775de;
+}
+
+.fIcons {
+    height: 72px;
+    display: inline-block;
+    line-height: 72px;
+}
+
+
+.fIcons2:before {
+    font-size: 64px;
+    color: #6775de;
+    text-align: center !important;
+    vertical-align: center !important;
+}
+
+.fIcons2 {
+    height: 72px;
+    display: inline-block;
+    line-height: 72px;
+    text-align: center !important;
+    vertical-align: center !important;
+}
